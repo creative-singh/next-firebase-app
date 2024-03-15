@@ -1,1 +1,1 @@
-# next-firebase-app
+# Next Js application with Firebase
