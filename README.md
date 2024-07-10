@@ -12,10 +12,8 @@ More Work
 - you can also use confetti after adding any expense
 - Deploy the App - DONE
 
+Deployment Details:
 
-Deployment Details: 
 - Deployment Date: July 10th, 2024
 - Deployment Server: Vercel
-- Deployment Link: 
-
-
+- Deployment Link: https://expense-tracker-singh.vercel.app/
