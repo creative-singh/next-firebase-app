@@ -8,5 +8,14 @@ More Work
 - Toastify - DONE
 - Make Loader
 - Make edit functionality - STARTED
-- Use icon to add, delete, edit - DONE
+- Use the icon to add, delete, edit - DONE
 - you can also use confetti after adding any expense
+- Deploy the App - DONE
+
+
+Deployment Details: 
+- Deployment Date: July 10th, 2024
+- Deployment Server: Vercel
+- Deployment Link: 
+
+
